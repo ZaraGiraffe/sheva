@@ -76,8 +76,6 @@ class Program
 {
     static void Main()
     {
-        Гора s = new();
-        s.x = 3;
-        Console.WriteLine("ooo");
+        
     }
 }
